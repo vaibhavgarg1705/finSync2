@@ -22,6 +22,7 @@ Actions:
 * Cloned the existing main branch without overwriting remote files.
 * Added API, sample CSV, tests, and frontend sources to PS02/.
 * Ran the API test suite and frontend production build.
+* Attempted to push main; GitHub returned HTTP 403 because the authenticated account lacks repository write permission.
 
 Context:
 tool=Copilot SDK in VS Code
