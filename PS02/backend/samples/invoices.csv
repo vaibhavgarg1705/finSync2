@@ -1,0 +1,3 @@
+invoiceNumber,customerId,customerName,invoiceDate,dueDate,totalAmount,currency
+INV-1001,CUST-01,Acme Industries,2026-01-05,2026-02-04,1250.00,INR
+INV-1002,CUST-02,Bluebird Trading,2026-01-12,2026-02-11,875.50,INR
