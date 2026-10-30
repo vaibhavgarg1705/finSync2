@@ -1,3 +1,0 @@
-paymentReference,customerId,customerName,amount,transactionDate,invoiceReference,description,currency
-PAY-9001,CUST-01,Acme Industries,1250.00,2026-01-20,INV-1001,Payment for INV-1001,INR
-PAY-9002,CUST-02,Bluebird Trading,500.00,2026-01-25,,Part payment,INR
